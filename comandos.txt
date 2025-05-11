@@ -1,0 +1,22 @@
+Nome: Ian Lucas Périgo Vianna
+
+Comandos:
+
+		1. Mkdir tarefa02
+		2. Git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead.git
+		3. nano texto.txt 
+		4. Git add texto.txt
+		5. Git commit -"Primeiro commit na branch main"
+		6. Git checkout –b feature-1
+		7. Nano texto.txt
+		8. Git commit –am "alteração na branch feature-1
+		9. Git chekout main
+		10. Git add texto.txt
+		11. Git commit –m "alteração na main"
+		12. Git merge feature-1
+		13. nano texto.txt
+		14. Git add texto.txt
+		15. Git commit –m "correção do conflito"	
+                16. Git checkout –b add-comandos
+                17. nano comandos.txt
+
